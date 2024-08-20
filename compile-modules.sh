@@ -1,0 +1,1 @@
+javac -d build --module-source-path simple-modules $(find simple-modules -name "*.java")
